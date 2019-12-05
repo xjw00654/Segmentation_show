@@ -1,2 +1,2 @@
-# Segmentation_show
+# Segmentation show in imagescope
 A stupid function to transfer segmentation result to xml in imagescope ... 
